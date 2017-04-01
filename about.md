@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Four years into a successful career in education I typed these words into Google: "Tech jobs for Liberal Arts majors." A world of opportunity appeared before my eyes as the results populated the screen.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+Technology has always played a major role in my life, but until that Google search I had never considered a career in the field. However, just a few weeks after that fateful day, I was an enrolled member at Team Treehouse and programming constantly.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+A few months passed and I enrolled in Harvard's CS50 course. My passion for the field continued to grow and I applied and was accepted into Oregon State University's computer science program. My goal is to learn as much as I'm able, earn my degree in CS, and become a successful software engineer.
+
