@@ -11,7 +11,7 @@ It happened in a flash, but my short one week spring break has come to an end an
 * Data Structures
 * Web Development
 
-The semester has just started but I can already tell it will be packed full of interesting, new things to learn. I'm most excited about Web Development. Hopefully I will pick up some knowledge allowing me to expand and update this blog in a variety of ways. 
+The semester has just started but I can already tell it will be packed full of interesting, new things to learn. I'm most excited about Web Development. Hopefully, I will pick up some knowledge allowing me to expand and update this blog in a variety of ways. 
 
 On top of this, I recently found out I was accepted to my first hackathon. I'll be attending HackDFW in Dallas toward the end of this month. While I'm nervous and unsure as to what to expect, I'm also quite excited! I know it will be a unique experience allowing me to learn new skills and also meet some great people who share my joy of programming.
 
