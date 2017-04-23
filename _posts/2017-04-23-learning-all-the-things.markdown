@@ -7,7 +7,7 @@ categories: programming
 
 As I'm typing this my first hackathon event, HackDFW, is coming to a close. Over 36 hours have passed and around 1,000 students have been programming nearly the entire time. While I'm completely exhausted, it has been an exciting two days. But, most importantly, I've learned a lot - more than I ever thought I could squeeze into such a short period of time!
 
-![Programmers at Earthack 2017](img/earthack.jpg "Earthack 2017")
+![Programmers at Earthack 2017](earthack.jpg "Earthack 2017")
 [id]: img/earthack.jpg  "Earthack 2017"
 
 <img src="../img/earthack.jpg" class="img-responsive" alt="">
