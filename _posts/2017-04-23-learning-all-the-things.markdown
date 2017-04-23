@@ -10,6 +10,8 @@ As I'm typing this my first hackathon event, HackDFW, is coming to a close. Over
 ![Programmers at Earthack 2017](img/earthack.jpg "Earthack 2017")
 [id]: img/earthack.jpg  "Earthack 2017"
 
+<img src="img/earthack.jpg" class="img-responsive" alt="">
+
 New Tech - MondoDB
 ===================
 
