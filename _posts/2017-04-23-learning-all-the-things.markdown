@@ -27,3 +27,8 @@ MongoClient.connect('mongodb://<dbuser>:<dbpassword>@ds115701.mlab.com:15701/use
 {% endhighlight %}
 
 With this single code block I can initialize my database and begin storing data. This was all done through an html form I created in my `index.html` file. I entered some information into the form and clicked submit. Refreshing my database pages showed that the information was added! It was really neat to see this take place in real time. It also helps understand how so many web apps out there actually work.
+
+Incomplete
+==========
+
+Unfortunately, two of my team members had to leave halfway through the event. We were left with an incomplete prototype that we would not be able to finish. Despite this, I learned a lot this weekend. Between the tech talks, meeting new people, and researching things I've come away with much more knowledge than I started with. I also hope to take some of the ideas generated here and implement them on my own as personal projects. The first of these will likely be a CRUD application that functions as a 'to-do' list. I can do this using MondoDB similar to my sign-in page that I created. Overall, it was a good weekend and I'm glad I was able to experience something like this!
