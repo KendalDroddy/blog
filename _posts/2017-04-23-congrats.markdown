@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Congrats!"
-date:   2017-04-23 012:25:40 -0500
-categories: wedding 
----
-
-![Happy Times](https://c1.staticflickr.com/3/2837/33843113980_4df6efb86b_b.jpg)
